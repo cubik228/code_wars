@@ -89,6 +89,7 @@ def queue_time(customers, n)
  tills.max
 end
 
+
 #Who likes it?
 def likes(names)
   case names.size
